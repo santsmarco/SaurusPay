@@ -1,0 +1,21 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <style name="Base.Theme.SaurusPay" parent="@style/Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimaryDark">#FF1616</item>
+        <item name="colorPrimary">#FF1616</item>
+        <item name="colorAccent">#F45D52</item>
+    </style>
+
+    <style name="MyTheme" parent="@style/Theme.AppCompat.Light.DarkActionBar" >
+        <item name="colorPrimaryDark">#FF1616</item>
+        <item name="colorPrimary">#FF1616</item>
+        <item name="colorAccent">#F45D52</item>
+    </style>
+
+    <style name="MyThemeActivitySaurusPayNoActionBar" parent="@style/Theme.AppCompat.Light.NoActionBar" >
+        <item name="colorPrimaryDark">#FF1616</item>
+        <item name="colorPrimary">#FF1616</item>
+        <item name="colorAccent">#F45D52</item>
+    </style>
+
+    <style name="Theme.SaurusPay" parent="Base.Theme.SaurusPay" />
+</resources>
